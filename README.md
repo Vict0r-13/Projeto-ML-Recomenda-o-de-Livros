@@ -1,6 +1,6 @@
 # 📚 Sistema de Recomendação de Livros
 
-Este repositório contém um Sistema de Recomendação de Livros desenvolvido por [Ivanildo Victor Sousa Bezerra]. O objetivo principal deste projeto é proporcionar aos usuários sugestões personalizadas de livros com base em suas preferências de leitura.
+Este repositório contém um Sistema de Recomendação de Livros onde o objetivo principal deste projeto é proporcionar aos usuários sugestões personalizadas de livros com base em suas preferências de leitura.
 
 ## Funcionalidades Principais
 
